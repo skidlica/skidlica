@@ -1,6 +1,5 @@
 # Teddy Park: Blockchain, Web3, and Creative Innovation
 
-![Banner](https://prod-files-secure.s3.us-west-2.amazonaws.com/b42a95a2-f8aa-45d9-8e99-d7780a29c80f/0e9a7cac-3dcb-4818-a5fa-43e22e24ddde/image.png)
 
 ---
 

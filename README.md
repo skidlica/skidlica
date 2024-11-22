@@ -1,5 +1,12 @@
 # Teddy Park: Blockchain, Web3, and Creative Innovation
+
+![Banner](https://prod-files-secure.s3.us-west-2.amazonaws.com/b42a95a2-f8aa-45d9-8e99-d7780a29c80f/0e9a7cac-3dcb-4818-a5fa-43e22e24ddde/image.png)
+
+---
+
 Teddy Park는 블록체인 기술과 Web3 솔루션 개발을 주력으로 하는 IT 전문가이자, 다양한 문화와 예술 프로젝트를 기획한 경험이 있는 **작가**입니다. 기술과 창의성의 교차점에서 새로운 가치를 창출하며 글로벌 무대에서 활약하고 있습니다.
+
+---
 
 ## 🚀 **블록체인 및 기술 프로젝트**
 ### 주요 성과:
@@ -12,6 +19,8 @@ Teddy Park는 블록체인 기술과 Web3 솔루션 개발을 주력으로 하�
 
 [자세히 보기](#)
 
+---
+
 ## 🎭 **문화 및 예술 기획 경력**
 ### 주요 경험:
 - **연극 연출 및 해외 내한 공연 기획**:
@@ -22,6 +31,8 @@ Teddy Park는 블록체인 기술과 Web3 솔루션 개발을 주력으로 하�
   - 싸이의 올 라이브 세팅 공연 호평.
 - **난타 마케팅팀 활동**
 
+---
+
 ## ✍️ **작가로서의 활동**
 
 - **[STO: 부자들만 아는 부동산의 미래](https://www.notion.so/STO-116075b9846a8005a168e123d231b38e?pvs=21)** (2023년 10월 발간)
@@ -29,17 +40,23 @@ Teddy Park는 블록체인 기술과 Web3 솔루션 개발을 주력으로 하�
 - **[디지털 부자가 알아야 할 NFT](https://www.notion.so/NFT-116075b9846a80778eeffb3497039676?pvs=21)** (2022년 4월 발간)
   - NFT의 기술적 가치와 미래 경제에서의 역할 설명.
 
+---
+
 ## 🌟 **전문 자격증**
 - **AI Communication Professional (AICP)** (2024-2027)
   - AI 기술과 블록체인 솔루션 통합 기획 전문가
 - **빅데이터 전문가 1급** (2018)
   - 데이터 기반 디지털 자산 분석 및 전략 기획 능력 보유.
 
+---
+
 ## 📫 **연락처**
 - **Email**: [skidlica@gmail.com](mailto:skidlica@gmail.com)
 - **LinkedIn**: [linkedin.com/in/web3revolution](https://www.linkedin.com/in/web3revolution/)
 - **GitHub**: [github.com/skidlica](https://github.com/skidlica)
 - **Twitter**: [twitter.com/amistadian](https://twitter.com/amistadian)
+
+---
 
 ## 🎨 **Teddy의 철학**
 기술과 예술, 그 교차점에서 더 나은 세상을 만듭니다.

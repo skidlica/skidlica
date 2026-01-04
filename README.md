@@ -18,7 +18,7 @@
 
 ### 2. [CPG & Crypto Issuer Dashboard] (원클릭 결제/발행)
 **"어렵다"는 핑계를 없애 유저 유입(Traffic)을 극대화합니다.**
-*복잡한 블록체인 지갑/가스비 개념을 **토스(Toss)처럼 단순화**. "사장님 몰라도 됩니다. 그냥 결제받으세요."
+* 복잡한 블록체인 지갑/가스비 개념을 **토스(Toss)처럼 단순화**. "사장님 몰라도 됩니다. 그냥 결제받으세요."
 * **User Experience:** 가스비 대납(Fee Delegation)과 원클릭 서명으로 **결제 이탈률 0%** 도전.
 * **Scale:** 발행(Issuer)부터 정산(Billing)까지, **기업이 필요한 A to Z**를 단일 대시보드로 통합.
 * **Tech Stack:** `Tailwind CSS`, `Crypto Billing Logic`, `Admin Dashboard UI`

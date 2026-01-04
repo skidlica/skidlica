@@ -7,11 +7,11 @@
 
 ## MVP Showcase: The "Proof" of Profit
 **"말뿐인 기획은 하지 않습니다. 코드로 비즈니스 로직을 증명합니다."**
-복잡한 금융/결제 구조를 '매출'과 '비용 절감'으로 직결시키는 3가지 핵심 MVP입니다.
+복잡한 금융/결제 구조를 '매출'과 '비용 절감'으로 직결시키는 3가지 핵심 MVP
 
 ### 1. [Integrated RTGS System] (STO 실시간 총액 결제정산)
 **정산의 '시차'를 없애 금융 리스크와 이자 비용을 '0'으로 만듭니다.**
-기존 T+2일 정산을 **T+0(실시간) DvP(동시결제)**로 구현하여, 금융사의 이자 비용과 정산 불이행 리스크를 원천 차단했습니다.
+기존 T+2일 정산을 **T+0(실시간) DvP(동시결제)**로 구현하여, 금융사의 이자 비용과 정산 불이행 리스크를 원천 차단
 * **Business Logic:** `Atomic Swap`을 통한 자산(STO)과 대금(Stablecoin)의 동시 교환.
 * **Profit Model:** 거래 즉시 파트너사(거래소, 예탁원, 플랫폼) 지갑으로 **수수료 자동 분배(Fee Distribution)**.
 * **Tech Stack:** `React`, `Chart.js`, `RTGS Simulation Algorithm`

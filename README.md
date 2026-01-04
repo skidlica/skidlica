@@ -1,7 +1,7 @@
 # Teddy Park (Park Sang-min)
 > **"Tech to Money, Art to Traffic."**
 > 기술을 비즈니스 언어로 번역하고, 예술적 감각으로 트래픽을 모으는 **Hybrid Strategist**입니다.
-> 코드를 짜는 사람이 아니라, **'돈 버는 구조(Profit Structure)'를 설계하는 아키텍트**입니다.
+> 코드를 짜는 사람이 아니라, **'돈 버는 구조(Profit Structure)'를 설계하는 아키텍트**입니다. 
 
 ---
 

@@ -7,18 +7,18 @@
 
 ## MVP Showcase: The "Proof" of Profit
 **"말뿐인 기획은 하지 않습니다. 코드로 비즈니스 로직을 증명합니다."**
-복잡한 금융/결제 구조를 '매출'과 '비용 절감'으로 직결시키는 3가지 핵심 MVP
+*복잡한 금융/결제 구조를 '매출'과 '비용 절감'으로 직결시키는 3가지 핵심 MVP
 
 ### 1. [Integrated RTGS System] (STO 실시간 총액 결제정산)
 **정산의 '시차'를 없애 금융 리스크와 이자 비용을 '0'으로 만듭니다.**
-기존 T+2일 정산을 **T+0(실시간) DvP(동시결제)**로 구현하여, 금융사의 이자 비용과 정산 불이행 리스크를 원천 차단
+*기존 T+2일 정산을 **T+0(실시간) DvP(동시결제)**로 구현하여, 금융사의 이자 비용과 정산 불이행 리스크를 원천 차단
 * **Business Logic:** `Atomic Swap`을 통한 자산(STO)과 대금(Stablecoin)의 동시 교환.
 * **Profit Model:** 거래 즉시 파트너사(거래소, 예탁원, 플랫폼) 지갑으로 **수수료 자동 분배(Fee Distribution)**.
 * **Tech Stack:** `React`, `Chart.js`, `RTGS Simulation Algorithm`
 
 ### 2. [CPG & Crypto Issuer Dashboard] (원클릭 결제/발행)
 **"어렵다"는 핑계를 없애 유저 유입(Traffic)을 극대화합니다.**
-복잡한 블록체인 지갑/가스비 개념을 **토스(Toss)처럼 단순화**. "사장님 몰라도 됩니다. 그냥 결제받으세요."
+*복잡한 블록체인 지갑/가스비 개념을 **토스(Toss)처럼 단순화**. "사장님 몰라도 됩니다. 그냥 결제받으세요."
 * **User Experience:** 가스비 대납(Fee Delegation)과 원클릭 서명으로 **결제 이탈률 0%** 도전.
 * **Scale:** 발행(Issuer)부터 정산(Billing)까지, **기업이 필요한 A to Z**를 단일 대시보드로 통합.
 * **Tech Stack:** `Tailwind CSS`, `Crypto Billing Logic`, `Admin Dashboard UI`
@@ -34,7 +34,7 @@
 
 ## Professional Identity: The "Profit" Architect
 **기술을 팔리는 상품으로 만듭니다 (Business Value)**
-단순한 개발이 아닙니다. 기업의 **비용(Cost)**을 줄이고 **매출(Revenue)**을 만드는 블록체인 솔루션을 공급합니다.
+*단순한 개발이 아닙니다. 기업의 **비용(Cost)**을 줄이고 **매출(Revenue)**을 만드는 블록체인 솔루션을 공급합니다.
 
 - **Enterprise Blockchain (2024 - Present):**
     - **[Asset Liquidity]** 골프 이용권 NFT 프로젝트 총괄. 잠자던 부동산/회원권 자산을 **유동화 가능한 '현금'**으로 전환.
@@ -45,8 +45,8 @@
 
 ## Creative DNA: The "Traffic" Maker
 **수만 명의 인파를 통제해본 경험을 디지털에 이식합니다 (Traffic Control)**
-Oasis, Backstreet Boys 내한 공연과 대형 락페스티벌을 기획하며 **10만 관객의 동선**을 설계했습니다.
-이 경험을 바탕으로 **사용자(Traffic)가 몰리는 UI/UX와 플랫폼**을 기획합니다.
+*Oasis, Backstreet Boys 내한 공연과 대형 락페스티벌을 기획하며 **10만 관객의 동선**을 설계했습니다.
+*이 경험을 바탕으로 **사용자(Traffic)가 몰리는 UI/UX와 플랫폼**을 기획합니다.
 
 - **Mega Events (Previous):**
     - **[Global Traffic]** Oasis, Backstreet Boys 내한 공연, 펜타포트 락페스티벌 기획.
@@ -54,7 +54,7 @@ Oasis, Backstreet Boys 내한 공연과 대형 락페스티벌을 기획하며 *
 
 ## Thought Leadership
 **업계의 표준을 정의합니다 (Authority)**
-복잡한 기술을 대중의 언어로 정의하여 베스트셀러를 집필했습니다.
+*복잡한 기술을 대중의 언어로 정의하여 베스트셀러를 집필했습니다.
 
 - **📖 [SUPER TRILOGY[ (2025):** 교보문고 주간 베스트(5월) AI, DIGITAL ASSET, GOVERNANCE 구조의 미래
 - **📖 [AI 시각화[ (2024):** 인간이 주도하고, ai가 디자인하는 세상

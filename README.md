@@ -25,7 +25,7 @@
 
 ### 3. [Payment & ERP Linkage] (결제-회계 자동화)
 **"블록체인 결제, 더존(Douzone) ERP에 바로 꽂힙니다."**
-기업 도입의 장벽인 '회계 처리' 문제를 해결. 결제 내역이 **국세청 표준 회계 전표**로 자동 변환
+*기업 도입의 장벽인 '회계 처리' 문제를 해결. 결제 내역이 **국세청 표준 회계 전표**로 자동 변환
 * **Standardization:** [결제] $\to$ [VAN 직금지갑] $\to$ [ERP 전표 생성]의 전 과정을 자동화
 * **Analogy:** 스타벅스/나이키 키오스크 시나리오를 통해 **"현실 세계(Real World) 적용 가능성"** 입증.
 * **Tech Stack:** `ERP Integration Mockup`, `POS Simulation`, `Scenario-based UX`

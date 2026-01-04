@@ -11,7 +11,7 @@
 
 ### 1. [Integrated RTGS System] (STO 실시간 총액 결제정산)
 **정산의 '시차'를 없애 금융 리스크와 이자 비용을 '0'으로 만듭니다.**
-*기존 T+2일 정산을 **T+0(실시간) DvP(동시결제)**로 구현하여, 금융사의 이자 비용과 정산 불이행 리스크를 원천 차단
+* 기존 T+2일 정산을 **T+0(실시간) DvP(동시결제)**로 구현하여, 금융사의 이자 비용과 정산 불이행 리스크를 원천 차단
 * **Business Logic:** `Atomic Swap`을 통한 자산(STO)과 대금(Stablecoin)의 동시 교환.
 * **Profit Model:** 거래 즉시 파트너사(거래소, 예탁원, 플랫폼) 지갑으로 **수수료 자동 분배(Fee Distribution)**.
 * **Tech Stack:** `React`, `Chart.js`, `RTGS Simulation Algorithm`
@@ -25,7 +25,7 @@
 
 ### 3. [Payment & ERP Linkage] (결제-회계 자동화)
 **"블록체인 결제, 더존(Douzone) ERP에 바로 꽂힙니다."**
-*기업 도입의 장벽인 '회계 처리' 문제를 해결. 결제 내역이 **국세청 표준 회계 전표**로 자동 변환
+* 기업 도입의 장벽인 '회계 처리' 문제를 해결. 결제 내역이 **국세청 표준 회계 전표**로 자동 변환
 * **Standardization:** [결제] $\to$ [VAN 직금지갑] $\to$ [ERP 전표 생성]의 전 과정을 자동화
 * **Analogy:** 스타벅스/나이키 키오스크 시나리오를 통해 **"현실 세계(Real World) 적용 가능성"** 입증.
 * **Tech Stack:** `ERP Integration Mockup`, `POS Simulation`, `Scenario-based UX`
@@ -34,7 +34,7 @@
 
 ## Professional Identity: The "Profit" Architect
 **기술을 팔리는 상품으로 만듭니다 (Business Value)**
-*단순한 개발이 아닙니다. 기업의 **비용(Cost)**을 줄이고 **매출(Revenue)**을 만드는 블록체인 솔루션을 공급합니다.
+* 단순한 개발이 아닙니다. 기업의 **비용(Cost)**을 줄이고 **매출(Revenue)**을 만드는 블록체인 솔루션을 공급합니다.
 
 - **Enterprise Blockchain (2024 - Present):**
     - **[Asset Liquidity]** 골프 이용권 NFT 프로젝트 총괄. 잠자던 부동산/회원권 자산을 **유동화 가능한 '현금'**으로 전환.
@@ -46,7 +46,7 @@
 ## Creative DNA: The "Traffic" Maker
 **수만 명의 인파를 통제해본 경험을 디지털에 이식합니다 (Traffic Control)**
 *Oasis, Backstreet Boys 내한 공연과 대형 락페스티벌을 기획하며 **10만 관객의 동선**을 설계했습니다.
-*이 경험을 바탕으로 **사용자(Traffic)가 몰리는 UI/UX와 플랫폼**을 기획합니다.
+* 이 경험을 바탕으로 **사용자(Traffic)가 몰리는 UI/UX와 플랫폼**을 기획합니다.
 
 - **Mega Events (Previous):**
     - **[Global Traffic]** Oasis, Backstreet Boys 내한 공연, 펜타포트 락페스티벌 기획.
